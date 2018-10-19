@@ -1,14 +1,14 @@
 {
-  "name": "oneplus",
+  "name": "oneplus-unlock-your-speed-hack",
   "version": "1.0.0",
-  "description": "",
+  "description": "A hack script for game at https://unlock.oneplus.com/en-gb/",
   "main": "oneplus.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node oneplus.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "anamritraj",
+  "license": "MIT",
   "dependencies": {
     "socket.io-client": "^2.1.1"
   }
